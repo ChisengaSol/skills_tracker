@@ -194,3 +194,25 @@
 .forgot-password:hover {
   text-decoration: underline;
 }
+.error-text {
+  font-size: 0.875rem;
+  color: #ef4444;
+}
+
+.success-text {
+  font-size: 0.875rem;
+  color: #22c55e;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #6366f1;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}

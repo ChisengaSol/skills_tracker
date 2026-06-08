@@ -1,5 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import supabase from "@/lib/supabase";
+import { LogOut } from "lucide-react";
+import "../styles/dashboard.css";
 
 function LogoutButton() {
   const navigate = useNavigate();
@@ -11,6 +13,7 @@ function LogoutButton() {
 
   return (
     <button onClick={handleLogout} className="logout-btn">
+      <LogOut size={16} />
       Sign out
     </button>
   );
