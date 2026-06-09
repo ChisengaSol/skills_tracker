@@ -2,9 +2,7 @@
 
 A full-stack personal skill learning tracker built with React, TypeScript, and Supabase. Track skills, log learning sessions, set goals, and build consistent learning habits.
 
-<a href="https://www.youtube.com/watch?v=J_y6x8ADjrY" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/J_y6x8ADjrY/maxresdefault.jpg" alt="Demo Video" />
-</a>
+[![Demo Video](https://img.youtube.com/vi/J_y6x8ADjrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=J_y6x8ADjrY)
 
 > 🎬 Click the thumbnail above to watch the demo video.
 
